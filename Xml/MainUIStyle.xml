@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="PrototypeMainUIStyle">
+  <MainUIStyle Id="1" Name="标准" Path="UI/Button/Blue" />
+  <MainUIStyle Id="2" Name="蓝色" Path="UI/Button/Standard" />
+  <MainUIStyle Id="3" Name="紫色" Path="UI/Button/Purple" />
+</Root>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="PrototypeMainUI">
+  <MainUI Id="1" Name="继续" EventType="1" ParentType="1" Icon="" IsShow="1" />
+  <MainUI Id="2" Name="暂停" EventType="2" ParentType="1" Icon="" IsShow="1" />
+  <MainUI Id="3" Name="返回" EventType="3" ParentType="1" Icon="" IsShow="1" />
+  <MainUI Id="4" Name="设置" EventType="4" ParentType="1" Icon="" IsShow="1" />
+</Root>

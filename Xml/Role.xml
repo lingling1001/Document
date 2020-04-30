@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="PrototypeRole">
+  <Role Id="1" Name="空" Type="0" Quality="6" Path="character800" UIRotate="0,180,0" UIPosition="0,0,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+  <Role Id="2" Name="弓手" Type="1" Quality="1" Path="monster_gongshou" UIRotate="0,180,0" UIPosition="0,0,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+  <Role Id="3" Name="赤蝎" Type="1" Quality="2" Path="monster_chixie" UIRotate="0,180,0" UIPosition="0,0.5,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+  <Role Id="4" Name="黄蝎" Type="1" Quality="3" Path="monster_huangxie" UIRotate="0,180,0" UIPosition="0,0.5,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+  <Role Id="5" Name="紫蝎" Type="1" Quality="4" Path="monster_zixie" UIRotate="0,180,0" UIPosition="0,0.5,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+  <Role Id="6" Name="树精" Type="1" Quality="5" Path="monster_fushideshujing" UIRotate="0,180,0" UIPosition="0,0,0" BasicAbility="1" BasicAttribute="1,200|2,100|3,5|4,10|5,2|6,6|7,3|8,1|9,7|10,10" />
+</Root>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="PrototypeLoadWeapon">
+  <LoadWeapon Id="1" Name="空手" Type="1" RoleId="1" AniController="G_Empty" LoadParent="" />
+  <LoadWeapon Id="2" Name="刀" Type="2" RoleId="1" AniController="G_Sabre" LoadParent="RHAND" />
+  <LoadWeapon Id="3" Name="剑" Type="3" RoleId="1" AniController="G_Sword" LoadParent="RHAND" />
+</Root>
